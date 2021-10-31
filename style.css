@@ -450,12 +450,12 @@
 
      .colleges>div:first-child img {
          height: 3.5rem;
-         width: 8.5rem;
+         width: 8rem;
      }
 
      .colleges>div:last-child img {
          height: 3.5rem;
-         width: 8.5rem;
+         width: 8rem;
      }
 
      .review-card-2>p:nth-child(2) {
@@ -468,8 +468,21 @@
          padding-right: 2rem;
      }
 
+     .success-details>div:last-child{
+         font-size: 0.81rem;
+     }
+
+     .mba{
+         height:2.06rem;
+         width:6.87rem;
+     }
+
      .success-img {
          margin-right: 0rem;
+     }
+
+     .name-mba>div:first-child {
+         font-size: 1rem;
      }
 
      .successful-admissions>p:first-child {
